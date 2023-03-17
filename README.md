@@ -23,4 +23,4 @@ The food-recipes desktop app is a best place for you to search for different rec
 3. Spoonacular API
 
 
-[^1]: Feel Free to drop me some interesting ideas you wish to add to this project to make it more appealing.
+Feel Free to drop me some interesting ideas you wish to add to this project to make it more appealing[^1].
